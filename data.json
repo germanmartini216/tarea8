@@ -1,0 +1,24 @@
+{
+    "estudiantes": [
+        {
+            "nombre": "Juan Pérez",
+            "correo": "juan.perez@example.com",
+            "cursos": []
+        },
+        {
+            "nombre": "María López",
+            "correo": "maria.lopez@example.com",
+            "cursos": []
+        }
+    ],
+    "cursos": [
+        {
+            "titulo": "Matemáticas",
+            "descripcion": "Curso de matemáticas básicas"
+        },
+        {
+            "titulo": "Historia",
+            "descripcion": "Curso de historia mundial"
+        }
+    ]
+}
